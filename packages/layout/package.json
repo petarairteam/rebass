@@ -1,8 +1,8 @@
 {
   "name": "@rebass/layout",
   "version": "4.0.6",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "scripts": {
     "prepare": "rebass-bundler"
   },

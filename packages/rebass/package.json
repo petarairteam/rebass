@@ -1,9 +1,9 @@
 {
   "name": "rebass",
-  "version": "4.0.7",
+  "version": "5.0.0",
   "description": "React primitive UI components built with Styled System",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "scripts": {
     "prepare": "rebass-bundler"
   },
