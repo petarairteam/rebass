@@ -1,6 +1,6 @@
 {
-  "private": true,
   "main": "packages/rebass/src/index.js",
+  "version": "1.0.0",
   "scripts": {
     "prepare": "lerna run prepare",
     "start": "yarn workspace docs start",
